@@ -1,4 +1,4 @@
-# Power BI Dashboard: Data Job Market Insights (v1.0)
+# Data Job Market Insights (v1.0)
 
 <p align="center">
   <img src="assets/dash1.png" alt="Dashboard 1" width="45%" />
