@@ -8,9 +8,10 @@ Each project dives into a unique dataset and explores key trends, metrics, and v
 
 ## Projects Overview
 
-### **Project 1: Data Jobs Market Insights Dashboard**
 
-### Version 1.0
+## 📍 **Project 1: Data Jobs Market Insights Dashboard**
+
+**Version 1.0**
 <p align="center">
   <img src="Data%20Jobs%20Exploration%20Dashboards%20-%201/assets/dash1.png" alt="Dashboard 1" width="45%" />
   <img src="Data%20Jobs%20Exploration%20Dashboards%20-%201/assets/drill_through.png" alt="Dashboard 2" width="45%" />
@@ -31,7 +32,7 @@ It enables job seekers to interactively filter roles, explore demand, and identi
 
 ---
 
-### Version 2.0
+**Version 2.0**
 
 <p align="center">
   <img src="Data%20Jobs%20Exploration%20Dashboards%20-%201/assets/dashboard2.png" alt="Dashboard Preview" width="900" />
