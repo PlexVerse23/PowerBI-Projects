@@ -27,7 +27,7 @@ It enables job seekers to interactively filter roles, explore demand, and identi
 - Geospatial hiring map
 - Navigation using buttons and bookmarks
 
-[View Dashboard Power BI File](https://drive.google.com/file/d/1YoETddP_JcNcjW_-670uFS_P4Do9Teag/view?usp=sharing)
+[View the full project description](Data%20Jobs%20Exploration%20Dashboards%20-%201/data_jobs_dashboard_1.md)
 
 ---
 
@@ -46,7 +46,7 @@ A **single-page Power BI dashboard** that condenses all insights into one centra
 - Job trends and interactive slicers
 - Clean and fast user experience
 
-[View Dashboard Power BI File](https://drive.google.com/file/d/1EvyP8gL_MmGzL4nryFvTNT53R_tmq300/view?usp=sharing)
+[View the full project description](Data%20Jobs%20Exploration%20Dashboards%20-%201/data_jobs_dashboard_2skills.md)
 
 ---
 
