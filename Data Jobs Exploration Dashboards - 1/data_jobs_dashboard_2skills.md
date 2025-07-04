@@ -1,7 +1,7 @@
 
-# Data Jobs Analysis Dashboard | Power BI Edition
+# Data Job Market Insights (v2.0)
 
-(GIF)
+![Data Jobs Dashboard v2.0](assets/dashboard2.png) 
 
 ---
 
@@ -11,7 +11,7 @@ The data job landscape is constantly evolving — making it hard for professiona
 
 The dataset contains detailed information such as job titles, salary benchmarks, role-specific skills, and regional distributions — all visualized in a clean and intuitive report.
 
-> Power BI File: [`G-Drive Link`](Data_Jobs_Dashboard_2.0.pbix)
+> Power BI File: [`G-Drive Link`](https://drive.google.com/file/d/1EvyP8gL_MmGzL4nryFvTNT53R_tmq300/view?usp=sharing)
 
 ---
 
@@ -39,7 +39,7 @@ This project involved end-to-end development using various Power BI functionalit
 
 This version brings all the insights onto **one unified page**, giving users a centralized view of the most important job metrics.
 
-![Data Jobs Dashboard v2.0 SCREENSHOT](../Resources/images/Project2_Dashboard_Page1.png) 
+![Data Jobs Dashboard v2.0](assets/main_screen.gif) 
 
 From this one screen, you can:
 
