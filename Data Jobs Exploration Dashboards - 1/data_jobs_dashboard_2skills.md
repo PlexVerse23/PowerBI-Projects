@@ -1,7 +1,9 @@
 
 # Data Job Market Insights (v2.0)
 
-![Data Jobs Dashboard v2.0](assets/dashboard2.png) 
+<p align="center">
+  <img src="assets/dashboard2.png" alt="Dashboard Preview" width="900" />
+</p>
 
 ---
 
